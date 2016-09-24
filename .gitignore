@@ -1,4 +1,5 @@
 .idea/
+install/
 cache/*
 !cache/.htaccess
 error_log
