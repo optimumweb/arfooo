@@ -2,6 +2,8 @@
 install/
 cache/*
 !cache/.htaccess
+compiled/
+!compiled/.htaccess
 error_log
 error.html
 config/db.php
